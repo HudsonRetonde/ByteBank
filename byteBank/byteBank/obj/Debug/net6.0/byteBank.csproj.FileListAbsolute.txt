@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\bin\Debug\net6.0\byteBank.exe
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\bin\Debug\net6.0\byteBank.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\bin\Debug\net6.0\byteBank.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\bin\Debug\net6.0\byteBank.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\bin\Debug\net6.0\byteBank.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\refint\byteBank.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\byteBank.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBank\obj\Debug\net6.0\ref\byteBank.dll
