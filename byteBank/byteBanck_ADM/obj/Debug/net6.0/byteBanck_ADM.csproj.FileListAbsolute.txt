@@ -1,0 +1,15 @@
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\bin\Debug\net6.0\byteBanck_ADM.exe
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\bin\Debug\net6.0\byteBanck_ADM.deps.json
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\bin\Debug\net6.0\byteBanck_ADM.runtimeconfig.json
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\bin\Debug\net6.0\byteBanck_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\bin\Debug\net6.0\byteBanck_ADM.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.csproj.AssemblyReference.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.AssemblyInfoInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.AssemblyInfo.cs
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.csproj.CoreCompileInputs.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\refint\byteBanck_ADM.dll
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.pdb
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\byteBanck_ADM.genruntimeconfig.cache
+C:\Users\hudso\OneDrive\Documentos\C#\ByteBank\byteBank\byteBanck_ADM\obj\Debug\net6.0\ref\byteBanck_ADM.dll
