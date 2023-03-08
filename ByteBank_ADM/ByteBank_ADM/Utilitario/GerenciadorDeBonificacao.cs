@@ -11,12 +11,8 @@ namespace ByteBank_ADM.Utilitario
 	public class GerenciadorDeBonificacao
 	{
 		public double TotalDeBonificacao { get; private set; }
-		public void Registrar(Diretor diretor)
-		{
-			this.TotalDeBonificacao += diretor.GetBonificacao();
-		}
-
-		public void Registrar(Funcionario funcionario)
+	
+				public void Registrar(Funcionario funcionario)
 		{
 			this.TotalDeBonificacao += funcionario.GetBonificacao();
 		}
